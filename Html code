@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>D-16</title>
+    </head>
+    <body> 
+    <style>
+        body {
+            background-color: #8B0000; /* Color de fondo rojo oscuro */
+            color: white; /* Color de texto blanco para que sea legible */
+        }
+    </style>
+        
+        <h1><strong>Why D-16 is the best character?</strong></h1>
+        <h2>Porque sí, no hay mas explicación, so </h2>
+  
+        <p>En el siguiente link podra ver imagenes iguales:</p> 
+	<a href="https://www.google.com/search?q=D-16++transformers+one+&client=opera-gx&sca_esv=609f3e555a5e0eba&udm=2&biw=1366&bih=607&sxsrf=ADLYWIJI4FHvvrAoEIyMA1tzlJd6nD-csw%3A1728529209453&ei=OUMHZ4inG6aHwbkPi-bo2QI&ved=0ahUKEwjIp42M6YKJAxWmQzABHQszOisQ4dUDCBA&uact=5&oq=D-16++transformers+one+&gs_lp=Egxnd3Mtd2l6LXNlcnAiF0QtMTYgIHRyYW5zZm9ybWVycyBvbmUgMgQQIxgnSMEFUJ4EWJ4EcAF4AJABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACG5gDAIgGAZIHATGgBwA&sclient=gws-wiz-serp">Google</a>
+        <br>
+        <img src="https://pbs.twimg.com/media/GZZskJfW4AAvaD8?format=jpg&name=4096x4096" alt="a" width="670" height="400">
+    </body>
+</html>
+
